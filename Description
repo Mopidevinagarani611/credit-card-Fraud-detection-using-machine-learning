@@ -1,0 +1,38 @@
+# Credit Card Fraud Detection Using Machine Learning
+
+This project demonstrates how Machine Learning can be used to detect fraudulent credit card transactions using real-world transaction data. It covers the complete machine learning workflow, including data preprocessing, exploratory data analysis (EDA), handling class imbalance, model training, evaluation, and fraud prediction.
+
+The project implements and compares multiple classification algorithms, including **Logistic Regression**, **Random Forest**, and **XGBoost**, to identify fraudulent transactions with high accuracy and reliability.
+
+## Key Highlights
+
+* Data preprocessing and feature engineering
+* Exploratory Data Analysis (EDA) and data visualization
+* Handling imbalanced datasets using techniques such as SMOTE, undersampling, and oversampling
+* Training and comparing multiple Machine Learning models
+* Model evaluation using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix
+* Fraud prediction on unseen transactions
+
+## Technologies Used
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+* XGBoost
+
+## Project Category
+
+**Machine Learning | Data Science | Python | Credit Card Fraud Detection**
+
+## Dataset
+
+This project uses the **Credit Card Fraud Detection** dataset.
+
+**Download the `creditcard.csv` dataset from Kaggle:**
+
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+
+After downloading, place the `creditcard.csv` file in the project's root directory before running the project.
